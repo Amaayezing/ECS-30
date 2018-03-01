@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/CLionProjects/WordCount/wcount.c
+stdio.h
+-
+ctype.h
+-
+stdlib.h
+-
+math.h
+-
+stdbool.h
+-
+

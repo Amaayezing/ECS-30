@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\maaye\Desktop\CLionProjects\ECS 30\Paint2\FinalPaint

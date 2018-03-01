@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/CardProb.dir/card_prob.c.o  -o CardProb.exe -Wl,--out-implib,libCardProb.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

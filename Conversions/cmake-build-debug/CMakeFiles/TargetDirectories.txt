@@ -1,0 +1,3 @@
+/cygdrive/c/Users/maaye/CLionProjects/Conversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/maaye/CLionProjects/Conversions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/maaye/CLionProjects/Conversions/cmake-build-debug/CMakeFiles/Conversions.dir

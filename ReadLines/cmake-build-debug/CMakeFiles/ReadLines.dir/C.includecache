@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/maaye/CLionProjects/ReadLines/read_lines.c
+stdio.h
+-
+stdlib.h
+-
+read_lines.h
+/cygdrive/c/Users/maaye/CLionProjects/ReadLines/read_lines.h
+
+/cygdrive/c/Users/maaye/CLionProjects/ReadLines/read_lines.h
+

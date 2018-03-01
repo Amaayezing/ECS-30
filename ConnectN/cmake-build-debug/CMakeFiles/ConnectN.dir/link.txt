@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/ConnectN.dir/main.c.o CMakeFiles/ConnectN.dir/turn.c.o CMakeFiles/ConnectN.dir/board.c.o CMakeFiles/ConnectN.dir/game.c.o  -o ConnectN.exe -Wl,--out-implib,libConnectN.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

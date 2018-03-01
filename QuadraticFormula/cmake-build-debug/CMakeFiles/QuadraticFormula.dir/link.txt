@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/QuadraticFormula.dir/quad.c.o  -o QuadraticFormula.exe -Wl,--out-implib,libQuadraticFormula.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

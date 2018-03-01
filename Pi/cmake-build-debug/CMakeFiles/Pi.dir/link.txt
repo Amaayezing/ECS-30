@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Pi.dir/pi.c.o  -o Pi.exe -Wl,--out-implib,libPi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

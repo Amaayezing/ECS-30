@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/BinaryPerimeter.dir/perimeter.c.o  -o BinaryPerimeter.exe -Wl,--out-implib,libBinaryPerimeter.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

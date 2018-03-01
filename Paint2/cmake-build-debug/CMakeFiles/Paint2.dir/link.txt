@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Paint2.dir/main.c.o CMakeFiles/Paint2.dir/getInput.c.o CMakeFiles/Paint2.dir/drawLines.c.o CMakeFiles/Paint2.dir/board.c.o CMakeFiles/Paint2.dir/addAndDelete.c.o  -o Paint2.exe -Wl,--out-implib,libPaint2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
